@@ -1,0 +1,14 @@
+100001|Non dirmi che hai paura  |Giuseppe Catozzella   |32.200|42
+100002|Returning to Haifa       |Ghassan Kanafani      |32.400|22
+100003|Pain threshold           |Hassan Sami Yusuf     |22.300|18
+100004|A Woman’s Life           |Guy de Maupassaut     |51.300|5
+100005|Giant's Bread            |Agatha_Christie       |21.500|2
+100006|Cards on the Table       |Agatha_Christie       |39.300|12
+100007|The Clocks               |Agatha_Christie       |44.000|12
+100008|In Other Words           |Jhumpa Lahiri         |65.000|17
+100009|My Journey               |Dr. A.P.J.Abdul Kalam |32.400|4
+100010|Game Changer             |Shahid Afridi         |12.000|18
+100011|Les Misérables           |Victor Hugo           |12.700|0
+100012|The Harry Potter Series  |J. K. Rowling         |22.600|7
+100013|Principia                |Issac Newton          |24.900|8
+
